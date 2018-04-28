@@ -49,7 +49,7 @@ public class Calculator {
                         secondNumber, (firstNumber*secondNumber));
                 break;
             case"/":
-                System.out.printf("Результат операции деления числа %.4f на числа %.4f:\t\t%.4f \n", firstNumber,
+                System.out.printf("Результат операции деления числа %.4f на число %.4f:\t\t%.4f \n", firstNumber,
                         secondNumber, (firstNumber/secondNumber));
                 break;
             case "%":
